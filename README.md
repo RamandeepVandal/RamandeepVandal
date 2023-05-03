@@ -2,7 +2,7 @@
 
 👨‍💻 Junior Front-End Developer 
 
-🎓 B.S. in Computer Science from Kwantlen Polytechnic University
+🎓 B.S. in Computer Science
 
 🌱 I'm always looking to expand my skill set and learn new technologies. Currently, I'm learning mobile development.
 
