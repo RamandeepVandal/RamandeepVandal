@@ -1,9 +1,13 @@
 👋 Hi, I'm Ramandeep Vandal!
 
-👨‍💻 Junior Front-End Developer 
+📊 Data Analyst | 👨‍💻 Tech Enthusiast
 
-🎓 B.Tech. in Computer Science from Kwantlen Polytechnic University
+🎓 B.Tech in Computer Science, Kwantlen Polytechnic University
 
-🌱 I'm always looking to expand my skill set and learn new technologies. Currently, I'm learning mobile development.
+🔍 Currently working as a Data Analyst, where I extract insights, visualize data, and support business decisions using Python, SQL, and Power BI.
 
-🚀 I'm passionate about creating responsive and user-friendly websites, while also considering the concepts of SEO principles. 
+💡 I have a background in front-end development, which helps me bring a user-focused mindset to my analytical work.
+
+📈 I'm passionate about data storytelling, predictive modeling, and turning raw data into meaningful insights.
+
+🌱 Always learning — right now I’m expanding my skills in machine learning and cloud data tools.
